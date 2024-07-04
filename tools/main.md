@@ -12,13 +12,67 @@ This section lists recent tools and databases for molecular generation, molecula
 
   [J Cheminform (2024)](https://doi.org/10.1186/s13321-024-00812-5) | [Code](https://github.com/MolecularAI/REINVENT4)
 
+- **ChemoDOTS: a web server to design chemistry-driven focused libraries** [2024]
+
+  Laurent Hoffer, Guillaume Charifi-Hoareau, Sarah Barelier, Stéphane Betzi, Thomas Miller, Xavier Morelli, Philippe Roche
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae326) | [Server](https://chemodots.marseille.inserm.fr/)
+
+- **The Damietta Server: a comprehensive protein design toolkit** [2024]
+
+  Iwan Grin, Kateryna Maksymenko, Tobias Wörtwein, Mohammad ElGamacy
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae297) | [Server](https://damietta.de/)
+
+- **ACFIS 2.0: an improved web-server for fragment-based drug discovery via a dynamic screening strategy** [2024]
+
+  Xing-Xing Shi, Zhi-Zheng Wang, Fan Wang, Ge-Fei Hao, Guang-Fu Yang
+
+  [Nucleic Acids Res (2023)](https://doi.org/10.1093/nar/gkad348) | [Server](http://chemyang.ccnu.edu.cn/ccb/server/ACFIS2/)
+
 ## Molecular property prediction
+
+- **ADMETlab 3.0: an updated comprehensive online ADMET prediction platform enhanced with broader coverage, improved performance, API functionality and decision support** [2024]
+
+  Li Fu, Shaohua Shi, Jiacai Yi, Ningning Wang, Yuanhang He, Zhenxing Wu, Jinfu Peng, Youchao Deng, Wenxuan Wang, Chengkun Wu, Aiping Lyu, Xiangxiang Zeng, Wentao Zhao, Tingjun Hou, Dongsheng Cao
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae236) | [Server](https://admetlab3.scbdd.com/)
+
+- **ChemFH: an integrated tool for screening frequent false positives in chemical biology and drug discovery** [2024]
+
+  Shaohua Shi, Li Fu, Jiacai Yi, Ziyi Yang, Xiaochen Zhang, Youchao Deng, Wenxuan Wang, Chengkun Wu, Wentao Zhao, Tingjun Hou, Xiangxiang Zeng, Aiping Lyu, Dongsheng Cao
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae424) | [Server](https://chemfh.scbdd.com/)
 
 - **KinomeMETA: a web platform for kinome-wide polypharmacology profiling with meta-learning** [2024]
 
   Zhaojun Li, Ning Qu, Jingyi Zhou, Jingjing Sun, Qun Ren, Jingyi Meng, Guangchao Wang, Rongyan Wang, Jin Liu, Yijie Chen, Sulin Zhang, Mingyue Zheng, Xutong Li
 
   [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae380) | [Server](https://kinomemeta.alphama.com.cn/)
+
+- **admetSAR3.0: a comprehensive platform for exploration, prediction and optimization of chemical ADMET properties** [2024]
+
+  Yaxin Gu, Zhuohang Yu, Yimeng Wang, Long Chen, Chaofeng Lou, Chen Yang, Weihua Li, Guixia Liu, Yun Tang
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae298) | [Server](http://lmmd.ecust.edu.cn/admetsar3/)
+
+- **ProTox 3.0: a webserver for the prediction of toxicity of chemicals** [2024]
+
+  Priyanka Banerjee, Emanuel Kemmler, Mathias Dunkel, Robert Preissner
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae303) | [Server](https://tox.charite.de/)
+
+- **Deep-PK: deep learning for small molecule pharmacokinetic and toxicity prediction** [2024]
+
+  Yoochan Myung, Alex G C de Sá, David B Ascher
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae254) | [Server](https://biosig.lab.uq.edu.au/deeppk/)
+
+- **PypKa server: online pKa predictions and biomolecular structure preparation with precomputed data from PDB and AlphaFold DB** [2024]
+
+  Pedro B P S Reis, Djork-Arné Clevert, Miguel Machuqueiro
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae255) | [Server](https://pypka.org/)
 
 ## molecular optimization
 
