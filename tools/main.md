@@ -1,8 +1,8 @@
-# Tools & Web server & Database
-
----
+# 🛠 Tools & Web server & Database
 
 This section lists recent tools and databases for molecular generation, molecular property prediction, and molecular optimization.
+
+![Tools](../assets/tools.webp)
 
 ## Table of Contents
 
@@ -18,6 +18,12 @@ This section lists recent tools and databases for molecular generation, molecula
   Chao Shen, Jianfei Song, Chang-Yu Hsieh, Dongsheng Cao, Yu Kang, Wenling Ye, Zhenxing Wu, Jike Wang, Odin Zhang, Xujun Zhang, Hao Zeng, Heng Cai, Yu Chen, Linkang Chen, Hao Luo, Xinda Zhao, Tianye Jian, Tong Chen, Dejun Jiang, Mingyang Wang, Qing Ye, Jialu Wu, Hongyan Du, Hui Shi, Yafeng Deng, and Tingjun Hou
 
   [J Chem Inf Model (2024)](https://doi.org/10.1021/acs.jcim.4c00621) | [Server](https://drugflow.com/)
+
+- **WeMol - AI 药物设计软件平台** [2024]
+
+  中大唯信·唯信计算
+
+  [Home](https://www.wecomput.com/) | [Server](https://wemol.wecomput.com/)
 
 ## Molecular generation
 
