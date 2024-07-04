@@ -4,6 +4,21 @@
 
 This section lists recent tools and databases for molecular generation, molecular property prediction, and molecular optimization.
 
+## Table of Contents
+
+- [Integrated Platform](#integrated-platform)
+- [Molecular generation](#molecular-generation)
+- [Molecular property prediction](#molecular-property-prediction)
+- [Molecular optimization](#molecular-optimization)
+
+## Integrated Platform
+
+- **DrugFlow: An AI-Driven One-Stop Platform for Innovative Drug Discovery** [2024]
+
+  Chao Shen, Jianfei Song, Chang-Yu Hsieh, Dongsheng Cao, Yu Kang, Wenling Ye, Zhenxing Wu, Jike Wang, Odin Zhang, Xujun Zhang, Hao Zeng, Heng Cai, Yu Chen, Linkang Chen, Hao Luo, Xinda Zhao, Tianye Jian, Tong Chen, Dejun Jiang, Mingyang Wang, Qing Ye, Jialu Wu, Hongyan Du, Hui Shi, Yafeng Deng, and Tingjun Hou
+
+  [J Chem Inf Model (2024)](https://doi.org/10.1021/acs.jcim.4c00621) | [Server](https://drugflow.com/)
+
 ## Molecular generation
 
 - **Reinvent 4: Modern AI–driven generative molecule design** [2024]
@@ -74,7 +89,13 @@ This section lists recent tools and databases for molecular generation, molecula
 
   [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae255) | [Server](https://pypka.org/)
 
-## molecular optimization
+- **BioTransformer 3.0—a web server for accurately predicting metabolic transformation products** [2024]
+
+  David S Wishart, Siyang Tian, Dana Allen, Eponine Oler, Harrison Peters, Vicki W Lui, Vasuk Gautam, Yannick Djoumbou-Feunang, Russell Greiner, Thomas O Metz
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkac313) | [Server](https://biotransformer.ca/)
+
+## Molecular optimization
 
 - **ChemMORT: an automatic ADMET optimization platform using deep learning and multi-objective particle swarm optimization** [2024]
 
