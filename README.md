@@ -9,3 +9,13 @@ A project dedicated to tracking the latest advancements in AI for drug design. W
 Updating ...
 
 ## Table of Content
+
+|                           |                                   |
+| ------------------------- | --------------------------------- |
+| **Resource Type**         | **Paper**                         |
+|                           | **Datasets**                      |
+|                           | **Tools and Software**            |
+|                           | **Tutorials and Guides**          |
+| **Application Scenarios** | **Molecular Generation**          |
+|                           | **Molecular Property Prediction** |
+|                           | **Molecular Optimization**        |
