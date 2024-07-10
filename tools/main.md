@@ -1,17 +1,22 @@
-# 🛠 Tools & Web server & Database
+# 🧬 Tools & Web server & Database <!-- omit from toc -->
 
 This section lists recent tools and databases for molecular generation, molecular property prediction, and molecular optimization.
 
 ![Tools](../assets/tools.webp)
 
-## Table of Contents
+## 📚 Table of Contents <!-- omit from toc -->
 
-- [Integrated Platform](#integrated-platform)
-- [Molecular generation](#molecular-generation)
-- [Molecular property prediction](#molecular-property-prediction)
-- [Molecular optimization](#molecular-optimization)
+- [Web Server](#web-server)
+  - [Integrated Platform](#integrated-platform)
+  - [Molecular generation](#molecular-generation)
+  - [Molecular property prediction](#molecular-property-prediction)
+  - [Molecular optimization](#molecular-optimization)
+  - [Structural Biology and Protein Topology](#structural-biology-and-protein-topology)
+- [Database](#database)
 
-## Integrated Platform
+## Web Server
+
+### Integrated Platform
 
 - **DrugFlow: An AI-Driven One-Stop Platform for Innovative Drug Discovery** [2024]
 
@@ -19,13 +24,13 @@ This section lists recent tools and databases for molecular generation, molecula
 
   [J Chem Inf Model (2024)](https://doi.org/10.1021/acs.jcim.4c00621) | [Server](https://drugflow.com/)
 
-- **WeMol - AI 药物设计软件平台** [2024]
+- **WeMol - AI 药物设计软件平台**
 
   中大唯信·唯信计算
 
   [Home](https://www.wecomput.com/) | [Server](https://wemol.wecomput.com/)
 
-## Molecular generation
+### Molecular generation
 
 - **Reinvent 4: Modern AI–driven generative molecule design** [2024]
 
@@ -51,7 +56,7 @@ This section lists recent tools and databases for molecular generation, molecula
 
   [Nucleic Acids Res (2023)](https://doi.org/10.1093/nar/gkad348) | [Server](http://chemyang.ccnu.edu.cn/ccb/server/ACFIS2/)
 
-## Molecular property prediction
+### Molecular property prediction
 
 - **ADMETlab 3.0: an updated comprehensive online ADMET prediction platform enhanced with broader coverage, improved performance, API functionality and decision support** [2024]
 
@@ -101,7 +106,7 @@ This section lists recent tools and databases for molecular generation, molecula
 
   [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkac313) | [Server](https://biotransformer.ca/)
 
-## Molecular optimization
+### Molecular optimization
 
 - **ChemMORT: an automatic ADMET optimization platform using deep learning and multi-objective particle swarm optimization** [2024]
 
@@ -114,3 +119,27 @@ This section lists recent tools and databases for molecular generation, molecula
   Jiacai Yi, Shaohua Shi, Li Fu, Ziyi Yang, Pengfei Nie, Aiping Lu, Chengkun Wu, Yafeng Deng, Changyu Hsieh, Xiangxiang Zeng, Tingjun Hou, Dongsheng Cao
 
   [Nat Protoc (2024)](https://doi.org/10.1038/s41596-023-00942-4) | [Server](https://cadd.nscc-tj.cn/deploy/optadmet/)
+
+### Structural Biology and Protein Topology
+
+- **AlphaKnot 2.0: a web server for the visualization of proteins’ knotting and a database of knotted AlphaFold-predicted models** [2024]
+
+  Pawel Rubach, Maciej Sikora, Aleksandra I Jarmolinska, Agata P Perlinska, Joanna I Sulkowska
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae443) | [Server](https://alphaknot.cent.uw.edu.pl/)
+
+- **AggreProt: a web server for predicting and engineering aggregation prone regions in proteins** [2024]
+
+  Joan Planas-Iglesias, Simeon Borko, Jan Swiatkowski, Matej Elias, Martin Havlasek, Ondrej Salamon, Ekaterina Grakova, Antonín Kunka, Tomas Martinovic, Jiri Damborsky, Jan Martinovic, David Bednar
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkae420) | [Server](https://loschmidt.chemi.muni.cz/aggreprot/)
+
+## Database
+
+- ✨ **The 2024 Nucleic Acids Research database issue and the online molecular biology database collection** [2024]
+
+  Daniel J Rigden, Xosé M Fernández
+
+  [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkad1173) | [Server](http://www.oxfordjournals.org/nar/database/c/)
+
+- ✨ [NAR online Molecular Biology Database Collection](http://www.oxfordjournals.org/nar/database/c/)
