@@ -143,3 +143,21 @@ This section lists recent tools and databases for molecular generation, molecula
   [Nucleic Acids Res (2024)](https://doi.org/10.1093/nar/gkad1173) | [Server](http://www.oxfordjournals.org/nar/database/c/)
 
 - ✨ [NAR online Molecular Biology Database Collection](http://www.oxfordjournals.org/nar/database/c/)
+
+- 🔽 NAR relavent database 【2023】
+
+| Database name     | URL                                                                                                                                             | Short description                                                                   |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Withdrawn 2.0     | [Database](https://bioinformatics.charite.de/withdrawn_3/index.php) [Paper](https://doi.org/10.1093/nar/gkad1017)                               | withdrawn drugs with pharmacovigilance data                                         |
+| DDBJ 2023         | [Database](https://www.ddbj.nig.ac.jp/) [Paper](https://doi.org/10.1093/nar/gkad1046)                                                           | metabolomics data and associated metadata                                           |
+| PLAbDab           | [Database](https://opig.stats.ox.ac.uk/webapps/plabdab/) [Paper](https://doi.org/10.1093/nar/gkad1056) [Code](https://github.com/oxpig/PLAbDab) | reference set of antibody sequences and structures                                  |
+| MetaboLights      | [Database](https://www.ebi.ac.uk/metabolights) [Paper](https://doi.org/10.1093/nar/gkad1045) [Code](https://github.com/EBI-Metabolights)        | open data repository for metabolomics                                               |
+| ChEMBL 2023       | [Database](https://www.ebi.ac.uk/chembl/) [Paper](https://doi.org/10.1093/nar/gkad1004)                                                         | a drug discovery platform spanning multiple bioactivity data types and time periods |
+| AlphaFold DB 2024 | [Database](https://alphafold.ebi.ac.uk/) [Paper](https://doi.org/10.1093/nar/gkad1011)                                                          | structure coverage for over 214 million protein sequences                           |
+| INTEDE 2.0        | [Database](http://idrblab.org/intede/) [Paper](https://doi.org/10.1093/nar/gkad1013)                                                            | the metabolic roadmap of drugs                                                      |
+| DescribePROT 2023 | [Database](http://biomine.cs.vcu.edu/servers/DESCRIBEPROT/) [Paper](https://doi.org/10.1093/nar/gkad985)                                        | amino acid-level descriptors of protein structures and functions                    |
+| ADCdb             | [Database](https://idrblab.org/adcdb/) [Paper](https://doi.org/10.1093/nar/gkad831)                                                             | antibody–drug conjugates                                                            |
+| PharmGWAS         | [Database](https://ngdc.cncb.ac.cn/pharmgwas) [Paper](https://doi.org/10.1093/nar/gkad832)                                                      | GWAS (genome-wide association studies)-based knowledgebase for drug repurposing     |
+| VARIDT 3.0        | [Database](https://idrblab.org/varidt/) [Paper](https://doi.org/10.1093/nar/gkad818)                                                            | phenotypic and regulatory variability of drug transporter (DT)                      |
+| TTD               | [Database](https://idrblab.org/ttd/) [Paper](https://doi.org/10.1093/nar/gkad751)                                                               | target druggability information                                                     |
+| BioLiP2           | [Database](https://zhanggroup.org/BioLiP) [Paper](https://doi.org/10.1093/nar/gkad630)                                                          | biologically relevant ligand–protein interactions                                   |
