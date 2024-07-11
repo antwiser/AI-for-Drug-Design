@@ -1,6 +1,6 @@
-# 🧬 Tools & Web server & Database <!-- omit from toc -->
+# 🧬 Web server & Database <!-- omit from toc -->
 
-This section lists recent tools and databases for molecular generation, molecular property prediction, and molecular optimization.
+This section highlights the latest web server and databases for drug design.
 
 ![Tools](../assets/tools.webp)
 
@@ -13,6 +13,7 @@ This section lists recent tools and databases for molecular generation, molecula
   - [Molecular optimization](#molecular-optimization)
   - [Structural Biology and Protein Topology](#structural-biology-and-protein-topology)
 - [Database](#database)
+  - [🔽 NAR relavent database - 2023](#-nar-relavent-database---2023)
 
 ## Web Server
 
@@ -144,7 +145,7 @@ This section lists recent tools and databases for molecular generation, molecula
 
 - ✨ [NAR online Molecular Biology Database Collection](http://www.oxfordjournals.org/nar/database/c/)
 
-- 🔽 NAR relavent database 【2023】
+### 🔽 NAR relavent database - 2023
 
 | Database name     | URL                                                                                                                                             | Short description                                                                   |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
