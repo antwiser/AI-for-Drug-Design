@@ -7,9 +7,9 @@ Welcome to the AI-for-Drug-Design repository, your resource for a curated collec
 </div>
 
 <!-- ![Abstract](assets/home.webp) -->
-<div style="text-align: center;">
+<p align="center">
 <img src="assets/home.webp" alt="Abstract" width="300">
-</div>
+</p>
 
 Updating ...
 
@@ -19,4 +19,4 @@ Updating ...
 
 ## 💻 Web Server & Database
 
-[Web Server & Database](tools/main.md)
+- [Web Server & Database](tools/main.md)
