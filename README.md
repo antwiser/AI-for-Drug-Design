@@ -22,7 +22,7 @@ Updating ...
 
 ## Paper -->
 
-> 👉 [New! 2024 Journal Impact Factor Update (Cheminformatics and Bioinformatics section)](docs/JIF.md)
+- [x] 👉 [New! 2024 Journal Impact Factor Update (Cheminformatics and Bioinformatics section)](docs/JIF.md)
 
 ## Web Server & Database
 
