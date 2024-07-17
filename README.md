@@ -1,29 +1,22 @@
 # AI-for-Drug-Design
 
----
+powered by Jiacai Yi ❤
 
-A project dedicated to tracking the latest advancements in AI for drug design. We collect and curate the latest resources and data, provide analysis and processing tools, and promote the application and development of AI in drug design.
+<div style="text-align: justify;">
+Welcome to the AI-for-Drug-Design repository, your resource for a curated collection of materials related to artificial intelligence in drug design. Whether you're a budding researcher, an experienced scientist, or simply someone keen on exploring the latest advancements and trends in AI-driven drug discovery, this repository has something for you. Here you'll find a compilation of valuable resources I've gathered over time, aimed at assisting and inspiring anyone interested in this cutting-edge field.
+</div>
 
-![Abstract](assets/home.webp)
+<!-- ![Abstract](assets/home.webp) -->
+<div style="text-align: center;">
+<img src="assets/home.webp" alt="Abstract" width="300">
+</div>
 
 Updating ...
 
-<!-- ## Table of Content
+## 📢 Something NEW
 
-| Category                  |                                 |
-| ------------------------- | ------------------------------- |
-| **Resource Type**         | [Paper](#paper)                 |
-|                           | [Datasets](#dataset)            |
-|                           | [Tools and Software](#)            |
-|                           | [Tutorials and Guides]          |
-| **Application Scenarios** | [Molecular Generation]          |
-|                           | [Molecular Property Prediction] |
-|                           | [Molecular Optimization]        |
+- 👉 [New! 2024 Journal Impact Factor Update (Cheminformatics and Bioinformatics section)](docs/JIF.md)
 
-## Paper -->
-
-- [x] 👉 [New! 2024 Journal Impact Factor Update (Cheminformatics and Bioinformatics section)](docs/JIF.md)
-
-## Web Server & Database
+## 💻 Web Server & Database
 
 [Web Server & Database](tools/main.md)
