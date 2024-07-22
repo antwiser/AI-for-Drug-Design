@@ -12,89 +12,67 @@ Welcome to the AI-for-Drug-Design repository, your resource for a curated collec
 
 Updating ...
 
-## 📢 Something NEW <!-- omit from toc -->
-
-- 👉 [New! 2024 Journal Impact Factor Update (Cheminformatics and Bioinformatics section)](docs/JIF.md)
-
-## 🍱 Resources <!-- omit from toc -->
-
-- [Web Server & Database](resources/tools.md)
-- [Dataset](resources/dataset.md)
-
 ## 📚 Table of Contents <!-- omit from toc -->
 
-- [Key scientific issues](#key-scientific-issues)
-  - [Explainable](#explainable)
-  - [Cross-domain adaptability](#cross-domain-adaptability)
-  - [Data complexity](#data-complexity)
-  - [Low-data scenarios](#low-data-scenarios)
-  - [Confidence assessment](#confidence-assessment)
-- [Technical framework](#technical-framework)
-  - [Continuous learning](#continuous-learning)
-  - [Reinforcement learning](#reinforcement-learning)
-  - [Pre-training](#pre-training)
-  - [Meta learning](#meta-learning)
-  - [Active learning](#active-learning)
-- [Novel Drug Design](#novel-drug-design)
-  - [Molecular generation](#molecular-generation)
-  - [Molecular property prediction](#molecular-property-prediction)
-  - [Molecular Optimization](#molecular-optimization)
-- [Application scenarios](#application-scenarios)
-  - [protein sequence generation](#protein-sequence-generation)
-  - [Matched molecule pairs](#matched-molecule-pairs)
-  - [Drug-drug interaction](#drug-drug-interaction)
-  - [Drug-transporter interaction](#drug-transporter-interaction)
-  - [PROTAC design](#protac-design)
-  - [Binding kinetics](#binding-kinetics)
-- [Hotspot areas](#hotspot-areas)
-  - [Large models](#large-models)
+- 📜 [Introduction](#introduction)
+- 🌈 [Features](#features)
+- 🔑 [Installation](#installation)
+- 🔔 [Usage](#usage)
+- 🎨 [Contributing](#contributing)
+- 🐛 [License](#license)
+- 👨‍🎓 [Contact](#contact)
+- 🙏 [Acknowledgements](#acknowledgements)
 
-## Key scientific issues
+## Introduction
 
-### Explainable
+This repository provides a comprehensive collection of resources related to AI in drug design, including datasets, tools, research papers, tutorials, and case studies. Our goal is to support researchers and practitioners in exploring and advancing the field of AI-driven drug discovery.
 
-### Cross-domain adaptability
+## Features
 
-### Data complexity
+- **Datasets**: Access various public and synthetic datasets for drug design.
+- **Tools**: Discover software, platforms, and models used in the field.
+- **Papers**: Find important review articles, recent studies, and classic papers.
+- **Tutorials**: Learn through basic and advanced tutorials, as well as video guides.
+- **Case Studies**: Explore real-world applications and success stories.
+- **Updates**: Stay informed with the latest news, breakthroughs, and events.
 
-### Low-data scenarios
+## Installation
 
-### Confidence assessment
+To use the resources in this repository, you can clone it to your local machine using the following command:
 
-## Technical framework
+```bash
+git clone https://github.com/antwiser/AI-for-Drug-Design.git
+```
 
-### Continuous learning
+## Usage
 
-### Reinforcement learning
+Navigate through the repository to find the resources you need. Each section contains detailed documentation and links to additional materials. For example:
 
-### Pre-training
+- To access datasets, go to the docs/datasets directory.
+- To explore tools, visit the docs/tools directory.
+- For tutorials, check out the docs/tutorials directory.
 
-### Meta learning
+## Contributing
 
-### Active learning
+We welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
-## Novel Drug Design
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes and push the branch to your fork.
+4. Submit a pull request with a detailed description of your changes.
 
-### Molecular generation
+For more details, please see our [Contributing Guide](docs/CONTRIBUTING.md).
 
-### Molecular property prediction
+## License
 
-### Molecular Optimization
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Application scenarios
+## Contact
 
-### protein sequence generation
+If you have any questions, suggestions, or feedback, please feel free to contact the repository maintainer:
 
-### Matched molecule pairs
+- Jiacai Yi - <yjc@nudt.edu.cn>
 
-### Drug-drug interaction
+## Acknowledgements
 
-### Drug-transporter interaction
-
-### PROTAC design
-
-### Binding kinetics
-
-## Hotspot areas
-
-### Large models
+We would like to thank all contributors and the broader research community for their support and collaboration.
