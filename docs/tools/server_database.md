@@ -3,7 +3,7 @@
 This section highlights the latest web server and databases for drug design.
 
 <p align="center">
-<img src="../assets/tools.webp" alt="Abstract" width="400">
+<img src="../../assets/tools.webp" alt="Abstract" width="400">
 </p>
 
 ## 📚 Table of Contents <!-- omit from toc -->
